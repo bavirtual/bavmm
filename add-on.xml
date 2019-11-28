@@ -1,0 +1,20 @@
+<SimBase.Document Type="AddOnXml" version="4,4" id="add-on">
+  <AddOn.Name>BAvMM</AddOn.Name>
+  <AddOn.Description>BAvMM - British Airways Virtual Model Matching</AddOn.Description>
+  <AddOn.Component>
+    <Category>SimObjects</Category>
+    <Path>SimObjects\Airplanes</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Effects</Category>
+    <Path>Effects</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Texture</Category>
+    <Path>Texture</Path>
+  </AddOn.Component>
+  <AddOn.Component>
+    <Category>Sound</Category>
+    <Path>Sound</Path>
+  </AddOn.Component>
+</SimBase.Document>

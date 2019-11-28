@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<AnimLib version="9.1">
+  <Anim name="custom_anim_VELOCITY_BODY_Z_02" guid="3dd2e867-93a4-492d-b727-dab3c2b132a0" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="custom_anim_VELOCITY_BODY_Z_02">
+    <AnimStream name="Position" id="2" partName="node51" length="200.000">
+      <Keyframe time="0.000" type="Vector" data="-4658.632000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="40.000" type="Vector" data="-4661.128000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-4663.001000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="160.000" type="Vector" data="-4659.256000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="200.000" type="Vector" data="-4657.071000;116.418600;-383.589400;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node52" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;-0.008727;-0.999962"/>
+      <Keyframe time="40.000" type="Quaternion" data="0.000000;0.000000;-0.002880;-0.999996"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="160.000" type="Quaternion" data="0.000000;0.000000;0.006981;-0.999976"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.000000;0.000000;0.013090;-0.999914"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node55" length="200.000">
+      <Keyframe time="0.000" type="Vector" data="-10061.350000;407.935000;-2190.113000;0.000000"/>
+      <Keyframe time="40.000" type="Vector" data="-10063.250000;407.935000;-2190.113000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-10065.090000;407.935000;-2190.113000;0.000000"/>
+      <Keyframe time="160.000" type="Vector" data="-10060.820000;407.385100;-2190.113000;0.000000"/>
+      <Keyframe time="200.000" type="Vector" data="-10056.660000;407.622700;-2190.113000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node56" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;-0.010472;-0.999945"/>
+      <Keyframe time="40.000" type="Quaternion" data="0.000000;0.000000;-0.006981;-0.999976"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="160.000" type="Quaternion" data="0.000000;0.000000;0.013962;-0.999903"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.000000;0.000000;0.021815;-0.999762"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node98" length="200.000">
+      <Keyframe time="0.000" type="Vector" data="4658.632000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="40.000" type="Vector" data="4661.128000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="4663.001000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="160.000" type="Vector" data="4659.256000;116.418600;-383.589400;0.000000"/>
+      <Keyframe time="200.000" type="Vector" data="4657.071000;116.418600;-383.589400;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node99" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.008727;-0.999962"/>
+      <Keyframe time="40.000" type="Quaternion" data="0.000000;0.000000;0.002880;-0.999996"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="160.000" type="Quaternion" data="0.000000;0.000000;-0.006981;-0.999976"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.000000;0.000000;-0.013090;-0.999914"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node102" length="200.000">
+      <Keyframe time="0.000" type="Vector" data="10061.350000;407.935000;-2190.113000;0.000000"/>
+      <Keyframe time="40.000" type="Vector" data="10063.250000;407.924700;-2190.113000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="10065.090000;407.935000;-2190.113000;0.000000"/>
+      <Keyframe time="160.000" type="Vector" data="10060.820000;407.385100;-2190.113000;0.000000"/>
+      <Keyframe time="200.000" type="Vector" data="10056.660000;407.622700;-2190.113000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node103" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.006981;-0.999976"/>
+      <Keyframe time="40.000" type="Quaternion" data="0.000000;0.000000;0.006981;-0.999976"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="160.000" type="Quaternion" data="0.000000;0.000000;-0.013962;-0.999903"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.000000;0.000000;-0.021815;-0.999762"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="l_aileron_percent_key" guid="bad53e9a-1958-4b22-90fe-23513d121db3" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="l_aileron_percent_key">
+    <AnimStream name="Rotation" id="0" partName="node65" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node69" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node243" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node247" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="l_spoiler_key" guid="F5D81E0E-0238-43a6-B169-2A7DF682295F" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="l_spoiler_key">
+    <AnimStream name="Position" id="2" partName="node74" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="-6291.307000;329.281500;-1821.869000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-6298.922000;329.281500;-1795.121000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node75" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.384691;0.019898;-0.088347;-0.918592"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node78" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="-8890.320000;458.369000;-2429.087000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-8895.251000;463.066100;-2412.576000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node79" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.384691;0.019898;-0.088347;-0.918592"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node159" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="-3121.152000;54.620160;-1787.484000;0.000000"/>
+      <Keyframe time="20.000" type="Vector" data="-3121.152000;54.620160;-1787.484000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-3121.152000;48.796670;-1787.484000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node160" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="20.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.425859;0.037143;-0.003054;-0.904022"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="l_flap_percent_key" guid="DB029E5C-1A48-42d5-8290-EF098DFABB4F" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="l_flap_percent_key">
+    <AnimStream name="Position" id="2" partName="node82" length="95.000">
+      <Keyframe time="0.000" type="Vector" data="-8874.996000;312.739800;-2566.212000;0.000000"/>
+      <Keyframe time="95.000" type="Vector" data="-8874.996000;271.973400;-3116.470000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node83" length="95.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="95.000" type="Quaternion" data="0.000000;-0.008727;0.000000;-0.999962"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node84" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="10.191870;4.367360;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node85" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.365901;-0.022257;0.080231;-0.926922"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node88" length="95.000">
+      <Keyframe time="0.000" type="Vector" data="-6204.538000;152.311800;-1931.368000;0.000000"/>
+      <Keyframe time="95.000" type="Vector" data="-6204.538000;111.546400;-2563.090000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node89" length="95.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="95.000" type="Quaternion" data="0.000000;-0.013090;0.000000;-0.999914"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node90" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="35.670020;-5.095424;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node91" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.365107;-0.031943;0.081091;-0.926877"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node167" length="95.000">
+      <Keyframe time="0.000" type="Vector" data="-3047.805000;-88.016900;-1564.633000;0.000000"/>
+      <Keyframe time="95.000" type="Vector" data="-3047.805000;-138.891300;-2205.094000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node168" length="95.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="95.000" type="Quaternion" data="0.000000;0.000000;-0.002182;-0.999998"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node169" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="0.000000;10.191870;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node170" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.362087;-0.027558;-0.001357;-0.931736"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="r_aileron_percent_key" guid="77db62be-36d4-4c03-bea7-c4cc2a224d9d" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="r_aileron_percent_key">
+    <AnimStream name="Rotation" id="0" partName="node112" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node116" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="r_spoiler_key" guid="1DAC9F00-4B37-417f-A463-8D6F2B72024D" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="r_spoiler_key">
+    <AnimStream name="Position" id="2" partName="node120" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="6291.307000;329.281500;-1821.817000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="6298.797000;329.281500;-1794.975000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node121" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.384691;-0.019898;0.088347;-0.918592"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node124" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="8890.289000;458.497000;-2429.192000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="8895.283000;463.178700;-2412.650000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node125" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.384691;-0.019898;0.088347;-0.918592"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node163" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="3121.152000;54.620160;-1787.484000;0.000000"/>
+      <Keyframe time="20.000" type="Vector" data="3121.152000;54.620160;-1787.484000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="3121.152000;48.690170;-1787.484000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node164" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="20.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="-0.425859;-0.037143;0.003054;-0.904022"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="r_flap_percent_key" guid="3849E47F-9088-4699-8959-EC0C54DF8015" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="r_flap_percent_key">
+    <AnimStream name="Position" id="2" partName="node128" length="95.000">
+      <Keyframe time="0.000" type="Vector" data="8874.996000;312.739800;-2566.212000;0.000000"/>
+      <Keyframe time="95.000" type="Vector" data="8874.996000;271.852500;-3116.470000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node129" length="95.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="95.000" type="Quaternion" data="0.000000;0.008727;0.000000;-0.999962"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node130" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-10.299390;4.369408;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node131" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.365901;0.022257;-0.080231;-0.926922"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node134" length="95.000">
+      <Keyframe time="0.000" type="Vector" data="6204.538000;152.311800;-1931.368000;0.000000"/>
+      <Keyframe time="95.000" type="Vector" data="6204.538000;111.425500;-2563.090000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node135" length="95.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="95.000" type="Quaternion" data="0.000000;0.013090;0.000000;-0.999914"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node136" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-35.580930;-4.994048;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node137" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.365107;0.031943;-0.081091;-0.926877"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node174" length="95.000">
+      <Keyframe time="0.000" type="Vector" data="3047.805000;-88.016900;-1564.633000;0.000000"/>
+      <Keyframe time="95.000" type="Vector" data="3047.805000;-138.891300;-2205.094000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node175" length="95.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="95.000" type="Quaternion" data="0.000000;0.000000;0.002182;-0.999998"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node176" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="0.000000;10.299390;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node177" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.362087;0.027558;0.001357;-0.931736"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="c_gear" guid="E2E339A6-FCBF-43a9-A780-3473E03AB54B" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="c_gear">
+    <AnimStream name="Rotation" id="0" partName="node144" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.672367;0.000000;0.000000;-0.740218"/>
+      <Keyframe time="10.000" type="Quaternion" data="0.672367;0.000000;0.000000;-0.740218"/>
+      <Keyframe time="90.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node147" length="200.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;-120.916000;0.000000;0.000000"/>
+      <Keyframe time="101.000" type="Vector" data="0.000000;-120.916000;0.000000;0.000000"/>
+      <Keyframe time="200.000" type="Vector" data="0.000000;91.478020;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node152" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.195090;0.000000;0.000000;-0.980785"/>
+      <Keyframe time="101.000" type="Quaternion" data="-0.195090;0.000000;0.000000;-0.980785"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.087156;0.000000;0.000000;-0.996195"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node156" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.203642;0.000000;0.000000;-0.979045"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.203642;0.000000;0.000000;-0.979045"/>
+      <Keyframe time="200.000" type="Quaternion" data="-0.069756;0.000000;0.000000;-0.997564"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node290" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="20.000" type="Quaternion" data="0.006970;0.052029;0.827128;-0.559557"/>
+      <Keyframe time="80.000" type="Quaternion" data="0.006970;0.052029;0.827128;-0.559557"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node293" length="20.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="20.000" type="Quaternion" data="0.000000;0.000000;0.829038;-0.559193"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node296" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="20.000" type="Quaternion" data="0.006970;-0.052029;-0.827128;-0.559557"/>
+      <Keyframe time="80.000" type="Quaternion" data="0.006970;-0.052029;-0.827128;-0.559557"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node299" length="20.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="20.000" type="Quaternion" data="0.000000;0.000000;-0.829038;-0.559193"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="c_wheel" guid="BC935F16-43CD-4046-8EF3-06E44A5940AB" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="c_wheel">
+    <AnimStream name="Rotation" id="0" partName="node145" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="133.000" type="Quaternion" data="0.000000;-0.866025;0.000000;-0.500000"/>
+      <Keyframe time="166.000" type="Quaternion" data="0.000000;-0.866025;0.000000;0.500000"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="c_tire_blurred_key" guid="4e1cc3e5-5933-445d-80e0-b0dd693125f0" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="c_tire_blurred_key">
+    <AnimStream name="Rotation" id="0" partName="node150" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.707107;0.000000;0.000000;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="1.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.707107;0.000000;0.000000;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node154" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.707107;0.000000;0.000000;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="1.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.707107;0.000000;0.000000;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="r_gear" guid="77C00B94-DDA1-450a-B725-1E2B4ADF6BC8" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="r_gear">
+    <AnimStream name="Rotation" id="0" partName="node180" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.681998;-0.731354"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.681998;-0.731354"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node182" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="-0.186524;0.000000;0.000000;-0.982450"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node185" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.190809;0.000000;0.000000;-0.981627"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node189" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;-0.669131;-0.743145"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;-0.669131;-0.743145"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node191" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.971342;0.237686"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.971342;0.237686"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node194" length="200.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="101.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="200.000" type="Vector" data="0.000000;224.213000;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node197" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.156434;0.000000;0.000000;-0.987688"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node200" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="-0.143493;0.000000;0.000000;-0.989651"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node282" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="2061.833000;-106.119200;-1123.927000;0.000000"/>
+      <Keyframe time="15.000" type="Vector" data="2061.833000;-106.119200;-1123.927000;0.000000"/>
+      <Keyframe time="85.000" type="Vector" data="2000.658000;-126.406700;-1123.927000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="2000.658000;-126.406700;-1123.927000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node283" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;-0.681998;-0.731354"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;-0.681998;-0.731354"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node302" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;-0.725374;-0.688355"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;-0.725374;-0.688355"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node305" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="30.000" type="Quaternion" data="0.000000;0.000000;0.622515;-0.782608"/>
+      <Keyframe time="70.000" type="Quaternion" data="0.000000;0.000000;0.622515;-0.782608"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node314" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="30.000" type="Quaternion" data="0.000000;0.000000;0.622515;-0.782608"/>
+      <Keyframe time="70.000" type="Quaternion" data="0.000000;0.000000;0.622515;-0.782608"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="r_tire_blurred_key" guid="aa67f522-28c5-4d09-a246-2823d34a686b" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="r_tire_blurred_key">
+    <AnimStream name="Rotation" id="0" partName="node203" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.707107;0.000000;0.000000;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="1.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.707107;0.000000;0.000000;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node205" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.707107;0.000000;0.000000;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="1.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.707107;0.000000;0.000000;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="l_gear" guid="E6A307E6-D0D8-4ca0-8A8E-77B7EA22FFB9" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="l_gear">
+    <AnimStream name="Rotation" id="0" partName="node211" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;-0.681998;-0.731354"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;-0.681998;-0.731354"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node213" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.665882;-0.746057"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.665882;-0.746057"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node215" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.968148;-0.250380"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.968148;-0.250380"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node218" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="-0.186524;0.000000;0.000000;-0.982450"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node221" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.190809;0.000000;0.000000;-0.981627"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node225" length="200.000">
+      <Keyframe time="0.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="101.000" type="Vector" data="0.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="200.000" type="Vector" data="0.000000;224.213000;0.000000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node230" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="-0.143493;0.000000;0.000000;-0.989651"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node233" length="200.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="101.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="200.000" type="Quaternion" data="0.156434;0.000000;0.000000;-0.987688"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node280" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="30.000" type="Quaternion" data="0.000000;0.000000;-0.622515;-0.782608"/>
+      <Keyframe time="70.000" type="Quaternion" data="0.000000;0.000000;-0.622515;-0.782608"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Position" id="2" partName="node286" length="100.000">
+      <Keyframe time="0.000" type="Vector" data="-2061.833000;-106.119200;-1123.927000;0.000000"/>
+      <Keyframe time="15.000" type="Vector" data="-2061.833000;-106.119200;-1123.927000;0.000000"/>
+      <Keyframe time="85.000" type="Vector" data="-2000.683000;-126.501900;-1123.927000;0.000000"/>
+      <Keyframe time="100.000" type="Vector" data="-2000.683000;-126.501900;-1123.927000;0.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node287" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.681998;-0.731354"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.681998;-0.731354"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node307" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="15.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="85.000" type="Quaternion" data="0.000000;0.000000;0.725374;-0.688355"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.725374;-0.688355"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node316" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+      <Keyframe time="30.000" type="Quaternion" data="0.000000;0.000000;-0.622515;-0.782608"/>
+      <Keyframe time="70.000" type="Quaternion" data="0.000000;0.000000;-0.622515;-0.782608"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="l_tire_blurred_key" guid="2c52a54a-9902-487a-a355-d00874ce7d0f" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="l_tire_blurred_key">
+    <AnimStream name="Rotation" id="0" partName="node228" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.707107;0.000000;0.000000;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="1.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.707107;0.000000;0.000000;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node236" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.707107;0.000000;0.000000;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="1.000000;0.000000;0.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.707107;0.000000;0.000000;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="elevator_percent_key" guid="69fced03-9a10-49a7-aa82-2b79ab5b63e0" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="elevator_percent_key">
+    <AnimStream name="Rotation" id="0" partName="node252" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node257" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node263" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+    <AnimStream name="Rotation" id="0" partName="node267" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="-0.258819;0.000000;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="-0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.130526;0.000000;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.258819;0.000000;0.000000;0.965926"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="rudder_percent_key" guid="5433b2a0-0fd9-4192-8f7d-0ba36bf7191d" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="rudder_percent_key">
+    <AnimStream name="Rotation" id="0" partName="node276" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;-0.258819;0.000000;0.965926"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.000000;-0.130526;0.000000;0.991445"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.000000;0.130526;0.000000;0.991445"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.258819;0.000000;0.965926"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="prop0_still" guid="1ca952e2-9e61-4905-b1ca-46a2c07b8bdf" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="prop0_still">
+    <AnimStream name="Rotation" id="0" partName="node310" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.000000;0.000000;0.707107;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;1.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.000000;0.000000;0.707107;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+  </Anim>
+  <Anim name="prop1_still" guid="b32f1e35-0f79-463f-84a3-896ccfa33ad7" length="200.000" type="Sim" typeParam="AutoPlay" typeParam2="prop1_still">
+    <AnimStream name="Rotation" id="0" partName="node312" length="100.000">
+      <Keyframe time="0.000" type="Quaternion" data="0.000000;0.000000;0.000000;1.000000"/>
+      <Keyframe time="25.000" type="Quaternion" data="0.000000;0.000000;0.707107;0.707107"/>
+      <Keyframe time="50.000" type="Quaternion" data="0.000000;0.000000;1.000000;0.000000"/>
+      <Keyframe time="75.000" type="Quaternion" data="0.000000;0.000000;0.707107;-0.707107"/>
+      <Keyframe time="100.000" type="Quaternion" data="0.000000;0.000000;0.000000;-1.000000"/>
+    </AnimStream>
+  </Anim>
+</AnimLib>
