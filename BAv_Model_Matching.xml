@@ -107,6 +107,7 @@
 
 <!-- BA Charter AI -->
 <ModelMatchRule CallsignPrefix="TOM" FlightNumberRange="8632-8633" TypeCode="A320" ModelName="BAvMM_A320_BAW_G-GATJ" />
+<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="154-155" TypeCode="A320" ModelName="BAvMM_A321_AWC_G-POWU" />
 
 <!-- Misc -->
 <ModelMatchRule CallsignPrefix="ABD" TypeCode="B744" ModelName="BAvMM_B744_ABD-IronMaiden" />
