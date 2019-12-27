@@ -3,6 +3,10 @@
 <!-- Gary Oliver B747-400 AI -->
 <ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="47-48" TypeCode="B744" ModelName="BAvMM_B744_BAW_G-BNLL" />
 
+<!-- BA Charter AI -->
+<ModelMatchRule CallsignPrefix="TOM" FlightNumberRange="8632-8633" TypeCode="A320" ModelName="BAvMM_A320_BAW_G-GATJ" />
+<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="154-155" TypeCode="A321" ModelName="BAvMM_A321_AWC_G-POWU" />
+
 <!-- BA World Cargo AI -->
 <ModelMatchRule CallsignPrefix="GSS" TypeCode="B748" ModelName="BAvMM_B748_GSS-Jetlift" />
 <ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3599" TypeCode="B748" ModelName="BAvMM_B748_GSS-Jetlift" />
@@ -104,10 +108,6 @@
 
 <!-- BA Leased AI -->
 <ModelMatchRule CallsignPrefix="BAW" TypeCode="A333" ModelName="BAvMM_A333_BAW_EC-NBP" />
-
-<!-- BA Charter AI -->
-<ModelMatchRule CallsignPrefix="TOM" FlightNumberRange="8632-8633" TypeCode="A320" ModelName="BAvMM_A320_BAW_G-GATJ" />
-<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="154-155" TypeCode="A320" ModelName="BAvMM_A321_AWC_G-POWU" />
 
 <!-- Misc -->
 <ModelMatchRule CallsignPrefix="ABD" TypeCode="B744" ModelName="BAvMM_B744_ABD-IronMaiden" />
