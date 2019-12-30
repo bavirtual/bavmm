@@ -48,7 +48,7 @@
 <ModelMatchRule CallsignPrefix="BAW" TypeCode="B789" ModelName="BAvMM_B789_BAW_G-ZBKF//BAvMM_B789_BAW_G-ZBKA//BAvMM_B789_BAW_G-ZBKH" />
 
 <!-- BA B787-10 AI -->
-<ModelMatchRule CallsignPrefix="BAW" TypeCode="B78X" ModelName="BAvMM_B78X_BAW" />
+<ModelMatchRule CallsignPrefix="BAW" TypeCode="B78X" ModelName="BAvMM_B78X_BAW_G-ZBLA" />
 
 <!-- BA A318 AI -->
 <ModelMatchRule CallsignPrefix="BAW" TypeCode="A318" ModelName="BAvMM_A318_BAW_G-EUNA" />
