@@ -9,9 +9,9 @@
 
 <!-- BA World Cargo AI -->
 <ModelMatchRule CallsignPrefix="GSS" TypeCode="B748" ModelName="BAvMM_B748_GSS-Jetlift" />
-<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3599" TypeCode="B748" ModelName="BAvMM_B748_GSS-Jetlift" />
+<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3999" TypeCode="B748" ModelName="BAvMM_B748_GSS-Jetlift" />
 <ModelMatchRule CallsignPrefix="GSS" TypeCode="B744" ModelName="BAvMM_B744_BAW-ChelseaRose" />
-<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3599" TypeCode="B744" ModelName="BAvMM_B744_BAW-ChelseaRose" />
+<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3999" TypeCode="B744" ModelName="BAvMM_B744_BAW-ChelseaRose" />
 
 <!-- BA Concorde AI -->
 <ModelMatchRule CallsignPrefix="BAW" TypeCode="CONC" ModelName="BAvMM_CONC_BAW-1977_G-BOAD//BAvMM_CONC_BAW-1988_G-BOAE//BAvMM_CONC_BAW-2000_G-BOAA//BAvMM_CONC_BAW-2000_G-BOAB//BAvMM_CONC_BAW-2000_G-BOAC//BAvMM_CONC_BAW-2000_G-BOAD//BAvMM_CONC_BAW-2000_G-BOAE//BAvMM_CONC_BAW-2000_G-BOAF//BAvMM_CONC_BAW-2000_G-BOAG" />
