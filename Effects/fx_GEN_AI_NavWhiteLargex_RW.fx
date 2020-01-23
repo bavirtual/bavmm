@@ -23,7 +23,7 @@ Face=1, 1, 1
 
 [ParticleAttributes.0]
 Blend Mode=2
-Texture=FSPX_AIlights.bmp
+Texture=GEN_AIlights.bmp
 Color Start=100, 100, 100, 10
 uv1=0.00, 0.00
 uv2=1.00, 1.00
@@ -45,7 +45,7 @@ Face=1, 1, 1
 
 [ParticleAttributes.1]
 Blend Mode=2
-Texture=FSPX_AIlights.bmp
+Texture=GEN_AIlights.bmp
 Color Start=160, 160, 160, 20
 uv1=0.00, 0.00
 uv2=1.00, 1.00
@@ -67,7 +67,7 @@ Face=1, 1, 1
 
 [ParticleAttributes.2]
 Blend Mode=2
-Texture=FSPX_AIlights.bmp
+Texture=GEN_AIlights.bmp
 Color Start=160, 160, 160, 255
 uv1=0.00, 0.00
 uv2=1.00, 1.00

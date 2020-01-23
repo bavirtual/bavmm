@@ -53,33 +53,33 @@
   <Animation name="anemometer" guid="b24c3586-f416-4e4b-b3e6-eb79b4fa499e" length="100" type="Sim" typeParam2="anemometer" typeParam="AutoPlay" />
   <Animation name="anemometer_spirit" guid="65e4dafd-4a1d-4c10-8424-c01dda66b0bc" length="100" type="Sim" typeParam2="anemometer_spirit" typeParam="AutoPlay" />
   <Animation name="anemometer_vickers" guid="eede7d88-9ef4-4af8-b2d2-ab88d3b9b220" length="100" type="Sim" typeParam2="anemometer_vickers" typeParam="AutoPlay" />
-  <Animation name="c_gear" guid="E2E339A6-FCBF-43a9-A780-3473E03AB54B" length="200" type="Sim" typeparam2="c_gear" typeparam="AutoPlay" />
-  <Animation name="c_tire_blurred_key" guid="4e1cc3e5-5933-445d-80e0-b0dd693125f0" length="100" type="Sim" typeParam2="c_tire_blurred_key" typeParam="AutoPlay" />
+  <Animation name="c_gear" guid="E2E339A6-FCBF-43a9-A780-3473E03AB54B" typeparam2="c_gear" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
+  <Animation name="c_tire_blurred_key" guid="4e1cc3e5-5933-445d-80e0-b0dd693125f0" typeParam2="c_tire_blurred_key" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="c_tire_still_key" guid="2788ac1a-4f88-402d-88fc-01a979ce48f8" length="100" type="Sim" typeParam2="c_tire_still_key" typeParam="AutoPlay" />
-  <Animation name="c_wheel" guid="BC935F16-43CD-4046-8EF3-06E44A5940AB" length="200" type="Sim" typeparam2="c_wheel" typeparam="AutoPlay" />
+  <Animation name="c_wheel" guid="BC935F16-43CD-4046-8EF3-06E44A5940AB" typeparam2="c_wheel" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="door_0" guid="9B5ED86C-B114-4924-B5C9-163A99042F2F" length="100" type="Sim" typeparam2="door_0" typeparam="AutoPlay" />
   <Animation name="door_1" guid="3A57E6F3-93D9-470e-A7DA-5878A033D933" length="100" type="Sim" typeparam2="door_1" typeparam="AutoPlay" />
   <Animation name="door_2" guid="5F2A41F8-EA1E-4b17-B987-84A45A75B88C" length="100" type="Sim" typeparam2="door_2" typeparam="AutoPlay" />
   <Animation name="door_3" guid="5D79AF88-3ADF-475a-BB65-19A61B2626BF" length="100" type="Sim" typeparam2="door_3" typeparam="AutoPlay" />
   <Animation name="elevator_key" guid="22dbdd8d-9dba-4ec5-8bd9-02274fec98f7" length="100" type="Sim" typeParam2="elevator_key" typeParam="AutoPlay" />
-  <Animation name="elevator_percent_key" guid="69fced03-9a10-49a7-aa82-2b79ab5b63e0" length="100" type="Sim" typeParam2="elevator_percent_key" typeParam="AutoPlay" />
+  <Animation name="elevator_percent_key" guid="69fced03-9a10-49a7-aa82-2b79ab5b63e0" typeParam2="elevator_percent_key" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="engine_rocker_arm" guid="4579c1a3-d8a2-4476-ab1e-98df68e00124" length="100" type="Sim" typeParam2="engine_rocker_arm" typeParam="AutoPlay" />
   <Animation name="f_canopy" guid="AD1B3466-C52F-4885-9EDE-3DDC15A1587A" length="100" type="Sim" typeparam2="f_canopy" typeparam="AutoPlay" />
   <Animation name="fly_wheel" guid="4199b1cf-bddc-490c-b316-d7849a9aa4bb" length="100" type="Sim" typeParam2="fly_wheel" typeParam="AutoPlay" />
   <Animation name="fuel_indicator" guid="d72e2b06-1f19-459d-a35d-2f552bfa9a17" length="100" type="Sim" typeParam2="fuel_indicator" typeParam="AutoPlay" />
   <Animation name="indicator_fuel_quantity" guid="6585fbde-d8bb-479b-81f1-3f852946c1b2" length="100" type="Sim" typeParam2="indicator_fuel_quantity" typeParam="AutoPlay" />
   <Animation name="l_aileron_key" guid="622F7859-7C22-462c-B763-4BA2CD8096E7" length="100" type="Sim" typeParam2="l_aileron_key" typeParam="AutoPlay" />
-  <Animation name="l_aileron_percent_key" guid="bad53e9a-1958-4b22-90fe-23513d121db3" length="100" type="Sim" typeParam2="l_aileron_percent_key" typeParam="AutoPlay" />
+  <Animation name="l_aileron_percent_key" guid="bad53e9a-1958-4b22-90fe-23513d121db3" typeParam2="l_aileron_percent_key" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="l_flap_key" guid="a7a0e97a-0506-48fd-bcc3-a17cb90f020f" length="100" type="Sim" typeParam2="l_flap_key" typeParam="AutoPlay" />
-  <Animation name="l_flap_percent_key" guid="DB029E5C-1A48-42d5-8290-EF098DFABB4F" length="100" type="Sim" typeparam2="l_flap_percent_key" typeparam="AutoPlay" />
+  <Animation name="l_flap_percent_key" guid="DB029E5C-1A48-42d5-8290-EF098DFABB4F" typeparam2="l_flap_percent_key" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="l_flap_neg_key" guid="6C554015-DE52-4d3d-BC03-E65E9985C564" length="200" type="Sim" typeParam2="l_flap_neg_key" typeParam="AutoPlay" />
   <Animation name="l_flap_neg_percent_key" guid="3F985D87-71C0-4f27-8295-AA694A810413" length="200" type="Sim" typeparam2="l_flap_neg_percent_key" typeparam="AutoPlay" />
   <Animation name="l_float" guid="15BD4F5A-BBE2-4cff-9C83-44E04481618B" length="200" type="Sim" typeparam2="l_float" typeparam="AutoPlay" />
-  <Animation name="l_lead_edge_flap_percent_key" guid="1B2C12B5-8539-439c-980C-A198647C9291" length="100" type="Sim" typeparam2="l_lead_edge_flap_percent_key" typeparam="AutoPlay" />
+  <Animation name="l_lead_edge_flap_percent_key" guid="1B2C12B5-8539-439c-980C-A198647C9291" typeparam2="l_lead_edge_flap_percent_key" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="l_ski" guid="1BE2C175-912A-4e0f-8989-F5625181169F" length="200" type="Sim" typeparam2="l_ski" typeparam="AutoPlay" />
-  <Animation name="l_gear" guid="E6A307E6-D0D8-4ca0-8A8E-77B7EA22FFB9" length="200" type="Sim" typeparam2="l_gear" typeparam="AutoPlay" />
-  <Animation name="l_spoiler_key" guid="F5D81E0E-0238-43a6-B169-2A7DF682295F" length="100" type="Sim" typeParam2="l_spoiler_key" typeParam="AutoPlay" />
-  <Animation name="l_tire_blurred_key" guid="2c52a54a-9902-487a-a355-d00874ce7d0f" length="100" type="Sim" typeParam2="l_tire_blurred_key" typeParam="AutoPlay" />
+  <Animation name="l_gear" guid="E6A307E6-D0D8-4ca0-8A8E-77B7EA22FFB9" typeparam2="l_gear" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
+  <Animation name="l_spoiler_key" guid="F5D81E0E-0238-43a6-B169-2A7DF682295F" typeParam2="l_spoiler_key" length="200" type="Sim" typeParam="AutoPlay" />
+  <Animation name="l_tire_blurred_key" guid="2c52a54a-9902-487a-a355-d00874ce7d0f" typeParam2="l_tire_blurred_key" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="l_tire_still_key" guid="33249ea2-f0e7-4e3f-9498-754697cf50bb" length="100" type="Sim" typeParam2="l_tire_still_key" typeParam="AutoPlay" />
   <Animation name="l_water_rudder_key" guid="CE0B48AA-EB61-4afc-A59C-3612D27E9F53" type="Sim" typeParam2="l_water_rudder_key" typeParam="AutoPlay" />
   <Animation name="l_wing_flex" guid="23FBBCC2-C861-41b4-90D2-051AC1BCA338" length="100" type="Sim" typeParam2="l_wing_flex" typeParam="AutoPlay" />
@@ -218,19 +218,19 @@
   <Animation name="N1_3_slow" guid="46C671C1-39EA-4560-A926-5A9E84A10461" length="100" type="Sim" typeParam2="N1_3_slow" typeParam="AutoPlay" />
   <Animation name="N1_3_still" guid="D015BD01-185A-4eea-B1CB-9C207CDF23B8" length="100" type="Sim" typeParam2="N1_3_still" typeParam="AutoPlay" />
   <Animation name="r_aileron_key" guid="0fdc9871-c378-4889-9feb-294083d5e7ed" length="100" type="Sim" typeParam2="r_aileron_key" typeParam="AutoPlay" />
-  <Animation name="r_aileron_percent_key" guid="77db62be-36d4-4c03-bea7-c4cc2a224d9d" length="100" type="Sim" typeParam2="r_aileron_percent_key" typeParam="AutoPlay" />
+  <Animation name="r_aileron_percent_key" guid="77db62be-36d4-4c03-bea7-c4cc2a224d9d" typeParam2="r_aileron_percent_key" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="r_canopy" guid="0420A34E-C366-4b1f-BBCC-A32BFCD17C87" length="100" type="Sim" typeparam2="r_canopy" typeparam="AutoPlay" />
   <Animation name="r_flap_key" guid="663d6118-af9b-4d6c-b88a-40cd88660ab3" length="100" type="Sim" typeParam2="r_flap_key" typeParam="AutoPlay" />
-  <Animation name="r_flap_percent_key" guid="3849E47F-9088-4699-8959-EC0C54DF8015" length="100" type="Sim" typeparam2="r_flap_percent_key" typeparam="AutoPlay" />
+  <Animation name="r_flap_percent_key" guid="3849E47F-9088-4699-8959-EC0C54DF8015" typeparam2="r_flap_percent_key" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="r_flap_neg_key" guid="D1522710-A523-49a0-85A7-DE15191B9D09" length="200" type="Sim" typeParam2="r_flap_neg_key" typeParam="AutoPlay" />
   <Animation name="r_flap_neg_percent_key" guid="51A6131E-FCC9-4dd9-A512-9F08DE50CCBB" length="200" type="Sim" typeparam2="r_flap_neg_percent_key" typeparam="AutoPlay" />
   <Animation name="r_float" guid="0902271A-6C64-45f6-9FF9-87FFA74746A8" length="200" type="Sim" typeparam2="r_float" typeparam="AutoPlay" />
-  <Animation name="r_lead_edge_flap_percent_key" guid="D27F63C4-2260-4dbe-8973-9C920A3C8898" length="100" type="Sim" typeparam2="r_lead_edge_flap_percent_key" typeparam="AutoPlay" />
+  <Animation name="r_lead_edge_flap_percent_key" guid="D27F63C4-2260-4dbe-8973-9C920A3C8898" typeparam2="r_lead_edge_flap_percent_key" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="r_ski" guid="33A7DF21-89C4-423a-8E1A-7BAF75E65B07" length="200" type="Sim" typeparam2="r_ski" typeparam="AutoPlay" />
-  <Animation name="r_gear" guid="77C00B94-DDA1-450a-B725-1E2B4ADF6BC8" length="200" type="Sim" typeparam2="r_gear" typeparam="AutoPlay" />
+  <Animation name="r_gear" guid="77C00B94-DDA1-450a-B725-1E2B4ADF6BC8" typeparam2="r_gear" typeparam="AutoPlay" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="R_landing_light" guid="ab55cc15-5ca5-4f1f-89c0-ecb7c73ab6f6" length="100" type="Sim" typeParam2="R_landing_light" typeParam="AutoPlay" />
-  <Animation name="r_spoiler_key" guid="1DAC9F00-4B37-417f-A463-8D6F2B72024D" length="100" type="Sim" typeParam2="r_spoiler_key" typeParam="AutoPlay" />
-  <Animation name="r_tire_blurred_key" guid="aa67f522-28c5-4d09-a246-2823d34a686b" length="100" type="Sim" typeParam2="r_tire_blurred_key" typeParam="AutoPlay" />
+  <Animation name="r_spoiler_key" guid="1DAC9F00-4B37-417f-A463-8D6F2B72024D" typeParam2="r_spoiler_key" length="200" type="Sim" typeParam="AutoPlay" />
+  <Animation name="r_tire_blurred_key" guid="aa67f522-28c5-4d09-a246-2823d34a686b" typeParam2="r_tire_blurred_key" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="r_tire_still_key" guid="6114e2ca-5fb8-4d20-a880-56945094247f" length="100" type="Sim" typeParam2="r_tire_still_key" typeParam="AutoPlay" />
   <Animation name="r_water_rudder_key" guid="AF2BBFB8-1859-4b22-8685-0679C78D46DB" type="Sim" typeParam2="r_water_rudder_key" typeParam="AutoPlay" />
   <Animation name="r_wing_flex" guid="40A98760-2FCB-4422-A469-7001DBAAB766" length="100" type="Sim" typeParam2="r_wing_flex" typeParam="AutoPlay" />
@@ -243,7 +243,7 @@
   <Animation name="rocker_rudder_trim" guid="0874f522-a917-4513-95a9-1abb261d5b5e" length="50" type="Sim" typeParam2="rocker_rudder_trim" typeParam="AutoPlay" />
   <Animation name="rocker_starter" guid="1dcef4ec-97c7-48ee-a3ef-bb8ac08fd507" length="50" type="Sim" typeParam2="rocker_starter" typeParam="AutoPlay" />
   <Animation name="rudder_key" guid="fdd4f357-47a2-4d4a-80db-846a5b1729ba" length="100" type="Sim" typeParam2="rudder_key" typeParam="AutoPlay" />
-  <Animation name="rudder_percent_key" guid="5433b2a0-0fd9-4192-8f7d-0ba36bf7191d" length="100" type="Sim" typeParam2="rudder_percent_key" typeParam="AutoPlay" />
+  <Animation name="rudder_percent_key" guid="5433b2a0-0fd9-4192-8f7d-0ba36bf7191d" typeParam2="rudder_percent_key" length="200" type="Sim" typeParam="AutoPlay" />
   <Animation name="switch_alt_air" guid="E9B6496E-BA79-418c-97A1-2DA8BAE87A8B" length="50" type="Sim" typeParam2="switch_alt_air" typeParam="AutoPlay" />
   <Animation name="switch_alt_field" guid="06d0d721-b868-47e5-8eff-2cea803517d0" length="50" type="Sim" typeParam2="switch_alt_field" typeParam="AutoPlay" />
   <Animation name="switch_anti_ice" guid="0895e551-1130-48e2-9c64-ac1d25ca8134" length="50" type="Sim" typeParam2="switch_anti_ice" typeParam="AutoPlay" />
@@ -4476,6 +4476,9 @@
   </PartInfo>
   <PartInfo>
     <Name>c_wheel</Name>
+    <MouseRect>
+      <TooltipID>TOOLTIPTEXT_STEER_ANGLE</TooltipID>
+    </MouseRect>
     <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
@@ -4484,9 +4487,6 @@
           </Code>
       </Parameter>
     </Animation>
-    <MouseRect>
-      <TooltipID>TOOLTIPTEXT_STEER_ANGLE</TooltipID>
-    </MouseRect>
   </PartInfo>
   <PartInfo>
     <Name>baggageloaderarm</Name>
@@ -4517,6 +4517,7 @@
       <Parameter>
         <Sim>
           <Variable>GEAR ANIMATION POSITION:1</Variable>
+          <Units>keyframe</Units>
         </Sim>
       </Parameter>
     </Animation>
@@ -4529,6 +4530,7 @@
       <Parameter>
         <Sim>
           <Variable>GEAR ANIMATION POSITION:2</Variable>
+          <Units>keyframe</Units>
         </Sim>
       </Parameter>
     </Animation>
@@ -4608,12 +4610,13 @@
   </PartInfo>
   <PartInfo>
     <Name>rudder_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>RUDDER DEFLECTION PCT</Variable>
           <Units>percent</Units>
+          <Scale>1</Scale>
           <Bias>50</Bias>
         </Sim>
       </Parameter>
@@ -4677,56 +4680,48 @@
   </PartInfo>
   <PartInfo>
     <Name>r_flap_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>TRAILING EDGE FLAPS RIGHT PERCENT</Variable>
           <Units>percent</Units>
-          <Scale>1</Scale>
-          <Bias>0</Bias>
         </Sim>
       </Parameter>
     </Animation>
   </PartInfo>
   <PartInfo>
     <Name>l_flap_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>TRAILING EDGE FLAPS LEFT PERCENT</Variable>
           <Units>percent</Units>
-          <Scale>1</Scale>
-          <Bias>0</Bias>
         </Sim>
       </Parameter>
     </Animation>
   </PartInfo>
   <PartInfo>
     <Name>r_lead_edge_flap_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>LEADING EDGE FLAPS RIGHT PERCENT</Variable>
           <Units>percent</Units>
-          <Scale>1</Scale>
-          <Bias>0</Bias>
         </Sim>
       </Parameter>
     </Animation>
   </PartInfo>
   <PartInfo>
     <Name>l_lead_edge_flap_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>LEADING EDGE FLAPS LEFT PERCENT</Variable>
           <Units>percent</Units>
-          <Scale>1</Scale>
-          <Bias>0</Bias>
         </Sim>
       </Parameter>
     </Animation>
@@ -4833,28 +4828,24 @@
   </PartInfo>
   <PartInfo>
     <Name>l_spoiler_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>SPOILERS LEFT POSITION</Variable>
-          <Scale>1</Scale>
           <Units>percent</Units>
-          <Bias>0</Bias>
         </Sim>
       </Parameter>
     </Animation>
   </PartInfo>
   <PartInfo>
     <Name>r_spoiler_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>SPOILERS RIGHT POSITION</Variable>
-          <Scale>1</Scale>
           <Units>percent</Units>
-          <Bias>0</Bias>
         </Sim>
       </Parameter>
     </Animation>
@@ -4913,13 +4904,13 @@
   </PartInfo>
   <PartInfo>
     <Name>l_aileron_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>AILERON LEFT DEFLECTION PCT</Variable>
-          <Scale>-1</Scale>
           <Units>percent</Units>
+          <Scale>-1</Scale>
           <Bias>50</Bias>
         </Sim>
       </Parameter>
@@ -4927,13 +4918,13 @@
   </PartInfo>
   <PartInfo>
     <Name>r_aileron_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>AILERON RIGHT DEFLECTION PCT</Variable>
-          <Scale>-1</Scale>
           <Units>percent</Units>
+          <Scale>-1</Scale>
           <Bias>50</Bias>
         </Sim>
       </Parameter>
@@ -4954,12 +4945,13 @@
   </PartInfo>
   <PartInfo>
     <Name>elevator_percent_key</Name>
-    <AnimLength>100</AnimLength>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>ELEVATOR DEFLECTION PCT</Variable>
           <Units>percent</Units>
+          <Scale>1</Scale>
           <Bias>50</Bias>
         </Sim>
       </Parameter>
@@ -6968,7 +6960,6 @@
   <PartInfo>
     <Name>c_tire_blurred_key</Name>
     <Copy>tire_anim</Copy>
-    <AnimLength>100</AnimLength>
     <Visibility>
       <Parameter>
         <Code>
@@ -6976,10 +6967,13 @@
           </Code>
       </Parameter>
     </Visibility>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>CENTER WHEEL ROTATION ANGLE</Variable>
+          <Units>radians</Units>
+          <Scale>15.91</Scale>
         </Sim>
       </Parameter>
     </Animation>
@@ -6987,7 +6981,6 @@
   <PartInfo>
     <Name>l_tire_blurred_key</Name>
     <Copy>tire_anim</Copy>
-    <AnimLength>100</AnimLength>
     <Visibility>
       <Parameter>
         <Code>
@@ -6995,10 +6988,13 @@
           </Code>
       </Parameter>
     </Visibility>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>LEFT WHEEL ROTATION ANGLE</Variable>
+          <Units>radians</Units>
+          <Scale>15.91</Scale>
         </Sim>
       </Parameter>
     </Animation>
@@ -7006,7 +7002,6 @@
   <PartInfo>
     <Name>r_tire_blurred_key</Name>
     <Copy>tire_anim</Copy>
-    <AnimLength>100</AnimLength>
     <Visibility>
       <Parameter>
         <Code>
@@ -7014,10 +7009,13 @@
           </Code>
       </Parameter>
     </Visibility>
+    <AnimLength>200</AnimLength>
     <Animation>
       <Parameter>
         <Sim>
           <Variable>RIGHT WHEEL ROTATION ANGLE</Variable>
+          <Units>radians</Units>
+          <Scale>15.91</Scale>
         </Sim>
       </Parameter>
     </Animation>
@@ -14200,99 +14198,4 @@
     </Visibility>
   </PartInfo>
   <!-- end season visibility -->
-  <Animation name="custom_anim_BRAKE_PARKING_POSITION_00" guid="5b9e00e7-7077-40bb-abd0-ff551239e67d" length="100" type="Sim" typeParam2="custom_anim_BRAKE_PARKING_POSITION_00" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_BRAKE_PARKING_POSITION_00</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(A:BRAKE PARKING POSITION,bool) if{ (A:CANOPY OPEN,percent) 100 == if{ (A:SIM ON GROUND,bool) if{ (A:GROUND VELOCITY,knots) 1 &lt; } } }</Code>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_LIGHT_LANDING_01" guid="81f0de18-2752-4b3a-a9f0-cf5966935a07" length="100" type="Sim" typeParam2="custom_anim_LIGHT_LANDING_01" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_LIGHT_LANDING_01</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(A:LIGHT LANDING,bool) 1 &lt;</Code>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_LIGHT_LANDING_02" guid="52978a04-88c6-47a9-a0c8-e59903f3c222" length="100" type="Sim" typeParam2="custom_anim_LIGHT_LANDING_02" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_LIGHT_LANDING_02</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(A:LIGHT LANDING,bool)</Code>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_VELOCITY_BODY_Z_03" guid="c7e87d5f-6581-487f-9d46-fdb8e2459cc6" length="100" type="Sim" typeParam2="custom_anim_VELOCITY_BODY_Z_03" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_VELOCITY_BODY_Z_03</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(A:VELOCITY BODY Z, knots) 100 &lt;= if{ (A:SIM ON GROUND,bool) if{ (A:G FORCE, gforce) 1 - 30 * /-/ 40 + } els{ (A:G FORCE, gforce) 1 - 30 * /-/ 160 + } } els{ (A:SIM ON GROUND, bool) 1 ==  if{ (A:VELOCITY BODY Z, knots) 160 &lt;=   if{ (A:G FORCE, gforce) 1 - 30 * /-/ 40 + (A:VELOCITY BODY Z, knots) 2 * + 200 - }  els{ (A:G FORCE, gforce) 1 - 30 * /-/ 160 + }  }  els{ (A:VELOCITY BODY Z, knots) 160 &lt;=   if{ (A:G FORCE, gforce) 1 - 30 * 40 + (A:VELOCITY BODY Z, knots) 2 * + 200 - }   els{ (A:G FORCE, gforce) 1 - 30 * 160 + }  } }</Code>
-        <Lag>100</Lag>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_ELEVATOR_TRIM_POSITION_04" guid="6e8334fa-5164-48dd-80d0-5835f130ddaf" length="100" type="Sim" typeParam2="custom_anim_ELEVATOR_TRIM_POSITION_04" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_ELEVATOR_TRIM_POSITION_04</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Sim>
-          <Variable>ELEVATOR TRIM POSITION</Variable>
-          <Units>radians</Units>
-        </Sim>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_SIM_ON_GROUND_05" guid="a55acfac-5a7d-4071-8b4d-ff04e6b00441" length="100" type="Sim" typeParam2="custom_anim_SIM_ON_GROUND_05" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_SIM_ON_GROUND_05</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(A:SIM ON GROUND, bool) 1 == if{ (A:SPOILERS HANDLE POSITION,percent) }</Code>
-        <Lag>200</Lag>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_LIGHT_TAXI_06" guid="3b487dab-14f3-4a52-a58a-03d8893ea7ce" length="100" type="Sim" typeParam2="custom_anim_LIGHT_TAXI_06" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_LIGHT_TAXI_06</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(A:LIGHT TAXI,bool) 1 &lt;</Code>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_Booster_Master_07" guid="622841eb-6f19-4223-aa06-011624e68583" length="100" type="Sim" typeParam2="custom_anim_Booster_Master_07" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_Booster_Master_07</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(L:Booster Master, number) 4 == if{ 0 } els{ 1 }</Code>
-      </Parameter>
-    </Animation>
-  </PartInfo>
-  <Animation name="custom_anim_LIGHT_TAXI_08" guid="ba42e3f0-0ae7-487e-a018-35858dc35d7c" length="100" type="Sim" typeParam2="custom_anim_LIGHT_TAXI_08" typeParam="AutoPlay" />
-  <PartInfo>
-    <Name>custom_anim_LIGHT_TAXI_08</Name>
-    <AnimLength>100</AnimLength>
-    <Animation>
-      <Parameter>
-        <Code>(A:LIGHT TAXI,bool)</Code>
-      </Parameter>
-    </Animation>
-  </PartInfo>
 </ModelInfo>

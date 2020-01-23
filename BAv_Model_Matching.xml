@@ -107,7 +107,7 @@
 <ModelMatchRule CallsignPrefix="BAW" TypeCode="BA11" ModelName="BAvMM_BA11_BAW_G-AVMO//BAvMM_BA11_BAW_G-AVMR" />
 
 <!-- BA Leased AI -->
-<ModelMatchRule CallsignPrefix="BAW" TypeCode="A333" ModelName="BAvMM_A333_BAW_EC-NBP" />
+//<ModelMatchRule CallsignPrefix="BAW" TypeCode="A333" ModelName="BAvMM_A333_BAW_EC-NBP" />
 
 <!-- Misc -->
 <ModelMatchRule CallsignPrefix="ABD" TypeCode="B744" ModelName="BAvMM_B744_ABD-IronMaiden" />
