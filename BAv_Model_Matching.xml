@@ -9,7 +9,9 @@
 
 <!-- BA World Cargo AI -->
 <ModelMatchRule CallsignPrefix="GSS" TypeCode="B748" ModelName="BAvMM_B748_GSS-Jetlift" />
+<ModelMatchRule CallsignPrefix="GSS" TypeCode="B48F" ModelName="BAvMM_B748_GSS-Jetlift" />
 <ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3999" TypeCode="B748" ModelName="BAvMM_B748_GSS-Jetlift" />
+<ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3999" TypeCode="B48F" ModelName="BAvMM_B748_GSS-Jetlift" />
 <ModelMatchRule CallsignPrefix="GSS" TypeCode="B744" ModelName="BAvMM_B744_BAW-ChelseaRose" />
 <ModelMatchRule CallsignPrefix="BAW" FlightNumberRange="3000-3999" TypeCode="B744" ModelName="BAvMM_B744_BAW-ChelseaRose" />
 
@@ -66,11 +68,11 @@
 <ModelMatchRule CallsignPrefix="SHT" TypeCode="A20N" ModelName="BAvMM_A20N_BAW_G-TTNA//BAvMM_A20N_BAW_G-TTNB//BAvMM_A20N_BAW_G-TTNC//BAvMM_A20N_BAW_G-TTND//BAvMM_A20N_BAW_G-TTNE//BAvMM_A20N_BAW_G-TTNF//BAvMM_A20N_BAW_G-TTNG//BAvMM_A20N_BAW_G-TTNH//BAvMM_A20N_BAW_G-TTNI//BAvMM_A20N_BAW_G-TTNJ//" />
 
 <!-- BA A321 AI -->
-<ModelMatchRule CallsignPrefix="BAW" TypeCode="A321" ModelName="BAvMM_A321_BAW_Radome_G-EUXL//BAvMM_A321_BAW_NoCoat_G-EUXE//BAvMM_A321_BAW_NoCoat_G-EUXM//BAvMM_A321_BAW_NoCoat_G-MEDF//BAvMM_A321_BAW_NoCoat_G-MEDG//BAvMM_A321_BAW_NoCoat_G-MEDJ//BAvMM_A321_BAW_NoCoat_G-MEDL//BAvMM_A321_BAW_NoCoat_G-MEDM//BAvMM_A321_BAW_NoCoat_G-MEDN//BAvMM_A321_BAW_NoCoat_G-MEDU//BAvMM_A321_BAW_Coat_G-EUXC//BAvMM_A321_BAW_Coat_G-EUXD//BAvMM_A321_BAW_Coat_G-EUXF//BAvMM_A321_BAW_Coat_G-EUXG//BAvMM_A321_BAW_Coat_G-EUXH//BAvMM_A321_BAW_Coat_G-EUXI//BAvMM_A321_BAW_Coat_G-EUXJ//BAvMM_A321_BAW_Coat_G-EUXK//" />
-<ModelMatchRule CallsignPrefix="SHT" TypeCode="A321" ModelName="BAvMM_A321_BAW_Radome_G-EUXL//BAvMM_A321_BAW_NoCoat_G-EUXE//BAvMM_A321_BAW_NoCoat_G-EUXM//BAvMM_A321_BAW_NoCoat_G-MEDF//BAvMM_A321_BAW_NoCoat_G-MEDG//BAvMM_A321_BAW_NoCoat_G-MEDJ//BAvMM_A321_BAW_NoCoat_G-MEDL//BAvMM_A321_BAW_NoCoat_G-MEDM//BAvMM_A321_BAW_NoCoat_G-MEDN//BAvMM_A321_BAW_NoCoat_G-MEDU//BAvMM_A321_BAW_Coat_G-EUXC//BAvMM_A321_BAW_Coat_G-EUXD//BAvMM_A321_BAW_Coat_G-EUXF//BAvMM_A321_BAW_Coat_G-EUXG//BAvMM_A321_BAW_Coat_G-EUXH//BAvMM_A321_BAW_Coat_G-EUXI//BAvMM_A321_BAW_Coat_G-EUXJ//BAvMM_A321_BAW_Coat_G-EUXK//" />
+<ModelMatchRule CallsignPrefix="BAW" TypeCode="A321" ModelName="BAvMM_A321_BAW_Radome_G-EUXL//BAvMM_A321_BAW_NoCoat_G-EUXE//BAvMM_A321_BAW_NoCoat_G-EUXM//BAvMM_A321_BAW_NoCoat_G-MEDF//BAvMM_A321_BAW_NoCoat_G-MEDG//BAvMM_A321_BAW_NoCoat_G-MEDJ//BAvMM_A321_BAW_NoCoat_G-MEDM//BAvMM_A321_BAW_NoCoat_G-MEDN//BAvMM_A321_BAW_NoCoat_G-MEDU//BAvMM_A321_BAW_Coat_G-EUXC//BAvMM_A321_BAW_Coat_G-EUXD//BAvMM_A321_BAW_Coat_G-EUXF//BAvMM_A321_BAW_Coat_G-EUXG//BAvMM_A321_BAW_Coat_G-EUXH//BAvMM_A321_BAW_Coat_G-EUXI//BAvMM_A321_BAW_Coat_G-EUXJ//BAvMM_A321_BAW_Coat_G-EUXK//" />
+<ModelMatchRule CallsignPrefix="SHT" TypeCode="A321" ModelName="BAvMM_A321_BAW_Radome_G-EUXL//BAvMM_A321_BAW_NoCoat_G-EUXE//BAvMM_A321_BAW_NoCoat_G-EUXM//BAvMM_A321_BAW_Coat_G-EUXC//BAvMM_A321_BAW_Coat_G-EUXD//BAvMM_A321_BAW_Coat_G-EUXF//BAvMM_A321_BAW_Coat_G-EUXG//BAvMM_A321_BAW_Coat_G-EUXH//BAvMM_A321_BAW_Coat_G-EUXI//BAvMM_A321_BAW_Coat_G-EUXJ//BAvMM_A321_BAW_Coat_G-EUXK//" />
 <ModelMatchRule CallsignPrefix="BAW" TypeCode="A21N" ModelName="BAvMM_A21N_BAW_G-NEOP//BAvMM_A21N_BAW_G-NEOR//BAvMM_A21N_BAW_G-NEOS//BAvMM_A21N_BAW_G-NEOT//BAvMM_A21N_BAW_G-NEOU//BAvMM_A21N_BAW_G-NEOV//BAvMM_A21N_BAW_G-NEOW" />
 <ModelMatchRule CallsignPrefix="SHT" TypeCode="A21N" ModelName="BAvMM_A21N_BAW_G-NEOP//BAvMM_A21N_BAW_G-NEOR//BAvMM_A21N_BAW_G-NEOS//BAvMM_A21N_BAW_G-NEOT//BAvMM_A21N_BAW_G-NEOU//BAvMM_A21N_BAW_G-NEOV//BAvMM_A21N_BAW_G-NEOW" />
-<ModelMatchRule CallsignPrefix="XMS" TypeCode="A321" ModelName="BAvMM_A321_BAW_Radome_G-EUXL//BAvMM_A321_BAW_NoCoat_G-EUXE//BAvMM_A321_BAW_NoCoat_G-EUXM//BAvMM_A321_BAW_NoCoat_G-MEDF//BAvMM_A321_BAW_NoCoat_G-MEDG//BAvMM_A321_BAW_NoCoat_G-MEDJ//BAvMM_A321_BAW_NoCoat_G-MEDL//BAvMM_A321_BAW_NoCoat_G-MEDM//BAvMM_A321_BAW_NoCoat_G-MEDN//BAvMM_A321_BAW_NoCoat_G-MEDU//BAvMM_A321_BAW_Coat_G-EUXC//BAvMM_A321_BAW_Coat_G-EUXD//BAvMM_A321_BAW_Coat_G-EUXF//BAvMM_A321_BAW_Coat_G-EUXG//BAvMM_A321_BAW_Coat_G-EUXH//BAvMM_A321_BAW_Coat_G-EUXI//BAvMM_A321_BAW_Coat_G-EUXJ//BAvMM_A321_BAW_Coat_G-EUXK//" />
+<ModelMatchRule CallsignPrefix="XMS" TypeCode="A321" ModelName="BAvMM_A321_BAW_Radome_G-EUXL//BAvMM_A321_BAW_NoCoat_G-EUXE//BAvMM_A321_BAW_NoCoat_G-EUXM//BAvMM_A321_BAW_NoCoat_G-MEDF//BAvMM_A321_BAW_NoCoat_G-MEDG//BAvMM_A321_BAW_NoCoat_G-MEDJ//BAvMM_A321_BAW_NoCoat_G-MEDM//BAvMM_A321_BAW_NoCoat_G-MEDN//BAvMM_A321_BAW_NoCoat_G-MEDU//BAvMM_A321_BAW_Coat_G-EUXC//BAvMM_A321_BAW_Coat_G-EUXD//BAvMM_A321_BAW_Coat_G-EUXF//BAvMM_A321_BAW_Coat_G-EUXG//BAvMM_A321_BAW_Coat_G-EUXH//BAvMM_A321_BAW_Coat_G-EUXI//BAvMM_A321_BAW_Coat_G-EUXJ//BAvMM_A321_BAW_Coat_G-EUXK//" />
 
 <!-- BA A350-1000 AI -->
 <ModelMatchRule CallsignPrefix="BAW" TypeCode="A35K" ModelName="BAvMM_A35K_BAW-BritishAirways" />
@@ -109,7 +111,15 @@
 <!-- BA Leased AI -->
 //<ModelMatchRule CallsignPrefix="BAW" TypeCode="A333" ModelName="BAvMM_A333_BAW_EC-NBP" />
 
+<!-- HORGY AI -->
+<ModelMatchRule CallsignPrefix="AIH" FlightNumberRange="85-86" TypeCode="A332" ModelName="TFS A330-200 Airtours" />
+<ModelMatchRule CallsignPrefix="MYT" FlightNumberRange="85-86" TypeCode="A332" ModelName="TFS A330-200 Mytravel" />
+<ModelMatchRule CallsignPrefix="TCX" FlightNumberRange="85-86" TypeCode="A332" ModelName="TFS A330-200 Thomas Cook" />
+
 <!-- Misc -->
+<ModelMatchRule CallsignPrefix="AUH" TypeCode="A320" ModelName="BAvMM_A320_AUH_A6-DLM" />
+<ModelMatchRule CallsignPrefix="BCC" TypeCode="L101" ModelName="BAvMM_L101_BCC_G-BBAF" />
+<ModelMatchRule CallsignPrefix="CKT" TypeCode="L101" ModelName="BAvMM_L101_BCC_G-BBAF" />
 <ModelMatchRule CallsignPrefix="ABD" TypeCode="B744" ModelName="BAvMM_B744_ABD-IronMaiden" />
 <ModelMatchRule CallsignPrefix="AFR" TypeCode="CONC" ModelName="BAvMM_CONC_AFR-2000//BAvMM_CONC_AFR-1977" />
 <ModelMatchRule TypeCode="CONC" ModelName="BAvMM_CONC_MISC" />
