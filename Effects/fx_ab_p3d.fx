@@ -7,13 +7,13 @@ Priority=0
 [Sound]
 FileName=Concorde_AFBRConcordeAfterburner.wav
 MinAttenuationDistance=1500.00
-Looping=FALSE
+Looping=TRUE
 
 [Properties]
 
 [Emitter.0]
 Lifetime=0.50, 0.50
-Delay=10.00, 10.00
+Delay=0.00, 0.00
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -32,7 +32,7 @@ Y Offset=0.00, 0.00
 Z Offset=0.00, 0.00
 
 [Particle.0]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -70,7 +70,7 @@ Extrude Heading Max=0.00
 
 [Emitter.1]
 Lifetime=0.50, 0.50
-Delay=10.50, 10.50
+Delay=0.25, 0.25
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -89,7 +89,7 @@ Y Offset=0.00, 0.00
 Z Offset= -0.40, -0.40
 
 [Particle.1]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -127,7 +127,7 @@ Extrude Heading Max=0.00
 
 [Emitter.2]
 Lifetime=0.50, 0.50
-Delay=10.50, 10.50
+Delay=0.25, 0.25
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -146,7 +146,7 @@ Y Offset=0.00, 0.00
 Z Offset= -0.80, -0.80
 
 [Particle.2]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -184,7 +184,7 @@ Extrude Heading Max=0.00
 
 [Emitter.3]
 Lifetime=0.50, 0.50
-Delay=11.20, 11.20
+Delay=0.75, 0.75
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -203,7 +203,7 @@ Y Offset=0.00, 0.00
 Z Offset= -1.30, -1.30
 
 [Particle.3]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -241,7 +241,7 @@ Extrude Heading Max=0.00
 
 [Emitter.4]
 Lifetime=0.50, 0.50
-Delay=11.20, 11.20
+Delay=0.75, 0.75
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -260,7 +260,7 @@ Y Offset=0.00, 0.00
 Z Offset= -1.90, -1.90
 
 [Particle.4]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -298,7 +298,7 @@ Extrude Heading Max=0.00
 
 [Emitter.5]
 Lifetime=0.50, 0.50
-Delay=11.35, 11.35
+Delay=1.00, 1.00
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -317,7 +317,7 @@ Y Offset=0.00, 0.00
 Z Offset= -2.50, -2.50
 
 [Particle.5]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -355,7 +355,7 @@ Extrude Heading Max=0.00
 
 [Emitter.6]
 Lifetime=0.50, 0.50
-Delay=11.35, 11.35
+Delay=1.00, 1.00
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -374,7 +374,7 @@ Y Offset=0.00, 0.00
 Z Offset= -3.10, -3.10
 
 [Particle.6]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -412,7 +412,7 @@ Extrude Heading Max=0.00
 
 [Emitter.7]
 Lifetime=0.50, 0.50
-Delay=11.40, 11.40
+Delay=1.10, 1.10
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -431,7 +431,7 @@ Y Offset=0.00, 0.00
 Z Offset= -3.70, -3.70
 
 [Particle.7]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -469,7 +469,7 @@ Extrude Heading Max=0.00
 
 [Emitter.8]
 Lifetime=0.50, 0.50
-Delay=11.40, 11.40
+Delay=1.10, 1.10
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -488,7 +488,7 @@ Y Offset=0.00, 0.00
 Z Offset= -4.30, -4.30
 
 [Particle.8]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -526,7 +526,7 @@ Extrude Heading Max=0.00
 
 [Emitter.9]
 Lifetime=0.50, 0.50
-Delay=11.45, 11.45
+Delay=1.15, 1.15
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -545,7 +545,7 @@ Y Offset=0.00, 0.00
 Z Offset= -4.85, -4.85
 
 [Particle.9]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.35, 1.35
 Y Scale= 1.35, 1.35
@@ -583,7 +583,7 @@ Extrude Heading Max=0.00
 
 [Emitter.10]
 Lifetime=0.50, 0.50
-Delay=11.45, 11.45
+Delay=1.15, 1.15
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -602,7 +602,7 @@ Y Offset=0.00, 0.00
 Z Offset= -5.40, -5.40
 
 [Particle.10]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.35, 1.35
 Y Scale= 1.35, 1.35
@@ -640,7 +640,7 @@ Extrude Heading Max=0.00
 
 [Emitter.11]
 Lifetime=0.50, 0.50
-Delay=11.50, 11.50
+Delay=1.20, 1.20
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -659,7 +659,7 @@ Y Offset=0.00, 0.00
 Z Offset= -5.90, -5.90
 
 [Particle.11]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -697,7 +697,7 @@ Extrude Heading Max=0.00
 
 [Emitter.12]
 Lifetime=0.50, 0.50
-Delay=11.50, 11.50
+Delay=1.20, 1.20
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -716,7 +716,7 @@ Y Offset=0.00, 0.00
 Z Offset= -6.40, -6.40
 
 [Particle.12]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -754,7 +754,7 @@ Extrude Heading Max=0.00
 
 [Emitter.13]
 Lifetime=0.50, 0.50
-Delay=11.55, 11.55
+Delay=1.25, 1.25
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -773,7 +773,7 @@ Y Offset=0.00, 0.00
 Z Offset= -6.60, -6.60
 
 [Particle.13]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20
@@ -811,7 +811,7 @@ Extrude Heading Max=0.00
 
 [Emitter.14]
 Lifetime=0.50, 0.50
-Delay=11.60, 11.60
+Delay=1.30, 1.30
 Bounce=0.00
 No Interpolate=1
 Rate=1.00, 1.00
@@ -830,7 +830,7 @@ Y Offset=0.00, 0.00
 Z Offset= -6.80, -6.80
 
 [Particle.14]
-Lifetime=70.00, 70.00
+Lifetime=0.00, 0.00
 Type=19
 X Scale= 1.20, 1.20
 Y Scale= 1.20, 1.20

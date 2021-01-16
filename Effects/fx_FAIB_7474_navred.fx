@@ -4,9 +4,6 @@ Version=2.00
 Radius=-1
 
 [Properties]
-Spot=1
-Tower=1
-Map=1
 
 [Emitter.0]
 Lifetime=0.50, 0.50

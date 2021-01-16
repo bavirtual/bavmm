@@ -32,8 +32,8 @@ Heading=0.00, 0.00
 [Particle.0]
 Lifetime=0.01, 0.01
 Type=19
-X Scale=9.0, 9.0
-Y Scale=9.0, 9.0
+X Scale=3.00, 3.00
+Y Scale=3.00, 3.00
 Z Scale=0.00, 0.00
 X Scale Rate=0.00, 0.00
 Y Scale Rate=0.00, 0.00
@@ -47,7 +47,7 @@ Fade In=0.00, 0.00
 Fade Out=0.00, 0.00
 Rotation=0.00, 0.00
 Static=1
-Face=1, 1, 1
+Face=1, 0, 1
 
 [ParticleAttributes.0]
 Blend Mode=2
@@ -92,8 +92,8 @@ Heading=0.00, 0.00
 [Particle.1]
 Lifetime=0.01, 0.01
 Type=19
-X Scale=3.10, 3.10
-Y Scale=3.10, 3.10
+X Scale=2.10, 2.10
+Y Scale=2.10, 2.10
 Z Scale=0.00, 0.00
 X Scale Rate=0.00, 0.00
 Y Scale Rate=0.00, 0.00
@@ -107,7 +107,7 @@ Fade In=0.00, 0.00
 Fade Out=0.00, 0.00
 Rotation=0.00, 0.00
 Static=1
-Face=1, 1, 1
+Face=1, 0, 1
 
 [ParticleAttributes.1]
 Blend Mode=2
@@ -152,8 +152,8 @@ Heading=0.00, 0.00
 [Particle.2]
 Lifetime=0.01, 0.01
 Type=19
-X Scale=4.0, 4.0
-Y Scale=4.0, 4.0
+X Scale=2.00, 2.00
+Y Scale=2.00, 2.00
 Z Scale=0.00, 0.00
 X Scale Rate=0.00, 0.00
 Y Scale Rate=0.00, 0.00
@@ -167,7 +167,7 @@ Fade In=0.00, 0.00
 Fade Out=0.00, 0.00
 Rotation=0.00, 0.00
 Static=1
-Face=1, 1, 1
+Face=1, 0, 1
 
 [ParticleAttributes.2]
 Blend Mode=2
@@ -212,8 +212,8 @@ Heading=0.00, 0.00
 [Particle.3]
 Lifetime=0.01, 0.01
 Type=19
-X Scale=2.0, 2.0
-Y Scale=2.0, 2.0
+X Scale=1.00, 1.00
+Y Scale=1.00, 1.00
 Z Scale=0.00, 0.00
 X Scale Rate=0.00, 0.00
 Y Scale Rate=0.00, 0.00
@@ -227,7 +227,7 @@ Fade In=0.00, 0.00
 Fade Out=0.00, 0.00
 Rotation=0.00, 0.00
 Static=1
-Face=1, 1, 1
+Face=1, 0, 1
 
 [ParticleAttributes.3]
 Blend Mode=2

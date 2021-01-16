@@ -7,8 +7,8 @@ Priority=0
 [Properties]
 
 [Emitter.0]
-Lifetime=70.00, 70.00
-Delay=10.00, 10.00
+Lifetime=0.00, 0.00
+Delay=0.00, 0.00
 Bounce=0.00
 No Interpolate=1
 Rate=40.00, 70.00
@@ -67,8 +67,8 @@ Extrude Pitch Max=0.00
 Extrude Heading Max=0.00
 
 [Emitter.1]
-Lifetime=70.00, 70.00
-Delay=10.00, 10.00
+Lifetime=0.00, 0.00
+Delay=0.00, 0.00
 Bounce=0.00
 No Interpolate=1
 Rate=30.00, 60.00
@@ -127,8 +127,8 @@ Extrude Pitch Max=0.00
 Extrude Heading Max=0.00
 
 [Emitter.2]
-Lifetime=70.00, 70.00
-Delay=10.00, 10.00
+Lifetime=0.00, 0.00
+Delay=0.00, 0.00
 Bounce=0.00
 No Interpolate=1
 Rate=50.00, 100.00
